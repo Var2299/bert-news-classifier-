@@ -11,7 +11,7 @@ A lightweight yet powerful binary text classification project using `bert-base-u
 ### 🖼️ Screenshots
 | Training Loss | Confusion Matrix |
 |---------------|------------------|
-| ![Loss](training_loss.png) | ![Confusion](confusion_matrix.png) |
+| ![Loss](TL.png) | ![Confusion](CM.png) |
 
 ### 🔧 Tech Stack
 - Python, PyTorch, HuggingFace Transformers
