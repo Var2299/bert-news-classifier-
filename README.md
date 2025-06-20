@@ -8,6 +8,12 @@ A lightweight yet powerful binary text classification project using `bert-base-u
 - Clean training loss plot and confusion matrix
 - Sample predictions + model saved
 
+### 📈 Model Performance
+
+![data1](s1.png)
+
+![data2](s2.png)
+
 ### 🖼️ Screenshots
 | Training Loss | Confusion Matrix |
 |---------------|------------------|
