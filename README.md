@@ -29,8 +29,13 @@ A lightweight yet powerful binary text classification project using `bert-base-u
 ---
 
 ### 🔧 Tech Stack
-- Python, PyTorch, HuggingFace Transformers
-- scikit-learn, matplotlib, seaborn
+- Python
+- PyTorch
+- HuggingFace Transformers
+- scikit-learn
+- matplotlib, seaborn
+
+---
 
 ### 📦 How to Run
 ```bash
