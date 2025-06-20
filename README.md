@@ -8,6 +8,11 @@ A lightweight yet powerful binary text classification project using `bert-base-u
 - Clean training loss plot and confusion matrix
 - Sample predictions + model saved
 
+### 🖼️ Screenshots
+| Training Loss | Confusion Matrix |
+|---------------|------------------|
+| ![Loss](TL.png) | ![Confusion](CM.png) |
+
 ### 📈 Model Performance
 
 ---
@@ -19,11 +24,6 @@ A lightweight yet powerful binary text classification project using `bert-base-u
 ![data2](s2.png)
 
 ---
-
-### 🖼️ Screenshots
-| Training Loss | Confusion Matrix |
-|---------------|------------------|
-| ![Loss](TL.png) | ![Confusion](CM.png) |
 
 ### 🔧 Tech Stack
 - Python, PyTorch, HuggingFace Transformers
