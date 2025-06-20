@@ -6,7 +6,7 @@ A lightweight yet powerful binary text classification project using `bert-base-u
 
 
 ### 🚀 Features
-- BERT tokenizer + classifier fine-tuned in under 10 mins
+- BERT tokenizer + classifier fine-tuned
 - 90%+ accuracy on unseen test data
 - Clean training loss plot and confusion matrix
 - Sample predictions + model saved
