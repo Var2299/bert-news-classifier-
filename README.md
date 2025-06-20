@@ -2,6 +2,9 @@
 
 A lightweight yet powerful binary text classification project using `bert-base-uncased` on the `sci.med` and `sci.space` categories from the 20 Newsgroups dataset.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Var2299/bert-news-classifier-/blob/main/BERT_News_Classifier.ipynb)
+
+
 ### 🚀 Features
 - BERT tokenizer + classifier fine-tuned in under 10 mins
 - 90%+ accuracy on unseen test data
